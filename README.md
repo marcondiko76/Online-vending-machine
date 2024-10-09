@@ -7,7 +7,7 @@ The smart contract is deployed on the Ethereum blockchain and provides functiona
 1. BCS-05-0177/2022 - Duke Mogaka<br>
 2. BCS-05-0171/2022 - Ezra Muthomi<br>
 3. BCS-05-0135/2022 - Jessee Gatimu<br>
-4. BCS-05-0174/2022 - Mark<br>
+4. BCS-05-0174/2022 - Mark Njenga<br>
 5. BCS-05-0173/2022 - Moses Kuria<br>
 
 
